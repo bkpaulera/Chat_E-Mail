@@ -1,0 +1,28 @@
+C:\Users\thais\source\repos\APS_2019\APS_2019\bin\Debug\APS_2019.exe.config
+C:\Users\thais\source\repos\APS_2019\APS_2019\bin\Debug\APS_2019.exe
+C:\Users\thais\source\repos\APS_2019\APS_2019\bin\Debug\APS_2019.pdb
+C:\Users\thais\source\repos\APS_2019\APS_2019\obj\Debug\APS_2019.csprojAssemblyReference.cache
+C:\Users\thais\source\repos\APS_2019\APS_2019\obj\Debug\APS_2019.Login.resources
+C:\Users\thais\source\repos\APS_2019\APS_2019\obj\Debug\APS_2019.Properties.Resources.resources
+C:\Users\thais\source\repos\APS_2019\APS_2019\obj\Debug\APS_2019.csproj.GenerateResource.cache
+C:\Users\thais\source\repos\APS_2019\APS_2019\obj\Debug\APS_2019.csproj.CoreCompileInputs.cache
+C:\Users\thais\source\repos\APS_2019\APS_2019\obj\Debug\APS_2019.exe
+C:\Users\thais\source\repos\APS_2019\APS_2019\obj\Debug\APS_2019.pdb
+C:\Users\thais\source\repos\APS_2019\APS_2019\obj\Debug\APS_2019.Menu.resources
+C:\Users\thais\source\repos\APS_2019\APS_2019\obj\Debug\APS_2019.Email.resources
+C:\Users\thais\source\repos\APS_2019\APS_2019\obj\Debug\APS_2019.Chat.resources
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\bin\Debug\APS_2019.exe.config
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\bin\Debug\APS_2019.exe
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\bin\Debug\APS_2019.pdb
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\obj\Debug\APS_2019.csprojAssemblyReference.cache
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\obj\Debug\APS_2019.Chat.resources
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\obj\Debug\APS_2019.Email.resources
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\obj\Debug\APS_2019.Login.resources
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\obj\Debug\APS_2019.Menu.resources
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\obj\Debug\APS_2019.Properties.Resources.resources
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\obj\Debug\APS_2019.csproj.GenerateResource.cache
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\obj\Debug\APS_2019.csproj.CoreCompileInputs.cache
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\obj\Debug\APS_2019.exe
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\obj\Debug\APS_2019.pdb
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\obj\Debug\APS_2019.ChatChoice.resources
+C:\Users\Paulera\Documents\Visual Studio 2019\Projects\Aps19_5.0\APS_2019\APS_2019\obj\Debug\APS_2019.ChatServer.resources
